@@ -1,0 +1,36 @@
+<component name="libraryTable">
+  <library name="hadoop">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/parquet-protobuf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/parquet-tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/parquet-cascading.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/parquet-pig-bundle.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/parquet-format-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/parquet-generator.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/parquet-format.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/hadoop-common-2.5.0-cdh5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/parquet-common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/hadoop-annotations.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/hadoop-common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/parquet-format-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/parquet-hadoop.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/hadoop-auth-2.5.0-cdh5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/parquet-scrooge.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/parquet-test-hadoop2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/hadoop-common-2.5.0-cdh5.2.1-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/parquet-hadoop-bundle.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/hadoop-auth.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/hadoop-annotations-2.5.0-cdh5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/parquet-pig.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/hadoop-nfs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/parquet-avro.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/parquet-jackson.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/parquet-encoding.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/hadoop-nfs-2.5.0-cdh5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/parquet-column.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/parquet-thrift.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

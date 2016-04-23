@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="scala_mapping1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/scala_mapping_jar/scala_mapping.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

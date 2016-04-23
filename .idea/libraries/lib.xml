@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/scala-compiler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-library.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scopt_2.10-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jansi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-reflect.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jline.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
